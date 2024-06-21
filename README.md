@@ -8,17 +8,18 @@
 
 <br>
 
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **Acerca de mi**
 
 <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 
 <br>
 
-- A passionate Self-taught Front-end developer
-- Playing CTF's at spare time
-- Currently learning Web Development by Self
-- Personal website [link](https://www.0xabdulkhalid.ml)
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://read.cv/0xabdulkhalid)
+- Desarrollador frontend entusiasta con un enfoque especial en Angular.
+- Dedicado a aprender y dominar nuevas tecnologías.
+- Emocionado por aplicar habilidades y contribuir a proyectos desafiantes.
+- Buscando oportunidades que permitan crecimiento profesional y aprendizaje continuo.
+- Mi sitio web personal [link](https://portfolio-angular-mocha.vercel.app/)
+- Mi CV personal [my resume](https://read.cv/0xabdulkhalid)
 
 <br><br>
 
@@ -29,22 +30,14 @@
 
 <p align="center">
 
-- **Languages**:
-    
-    ![C](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
-    ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-    ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-
-<br>   
-    
+   
 - **Front-End**:
 
-- <p align="center">
+  <p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,sass,bootstrap,tailwind" />
   </a>
 </p>
-
 
 
 <br>
