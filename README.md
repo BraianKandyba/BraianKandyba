@@ -12,8 +12,8 @@
 - Dedicado a aprender y dominar nuevas tecnologías.
 - Emocionado por aplicar habilidades y contribuir a proyectos desafiantes.
 - Buscando oportunidades que permitan crecimiento profesional y aprendizaje continuo.
-- Mi sitio web personal [link](https://portfolio-angular-mocha.vercel.app/)
-- Mi CV personal [my resume](https://drive.google.com/file/d/1bFHtOQ0tR4UfntwfHd-bTFGpv2D3qbMI/view?usp=sharing)
+- Mi sitio web personal ![link](https://portfolio-angular-mocha.vercel.app/)
+- Mi CV personal ![my resume](https://drive.google.com/file/d/1bFHtOQ0tR4UfntwfHd-bTFGpv2D3qbMI/view?usp=sharing)
 
 <br><br>
 
