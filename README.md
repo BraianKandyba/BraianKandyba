@@ -13,7 +13,7 @@
 - Emocionado por aplicar habilidades y contribuir a proyectos desafiantes.
 - Buscando oportunidades que permitan crecimiento profesional y aprendizaje continuo.
 - Mi sitio web personal [link](https://portfolio-angular-mocha.vercel.app/)
-- Mi CV personal [my resume](https://read.cv/0xabdulkhalid)
+- Mi CV personal [my resume](https://drive.google.com/file/d/1bFHtOQ0tR4UfntwfHd-bTFGpv2D3qbMI/view?usp=sharing)
 
 <br><br>
 
@@ -60,7 +60,7 @@
 <ul>
 
 <li>
-<a href="www.linkedin.com/in/braian-kandyba-a7621021a" target="_blank">
+<a href="https://www.linkedin.com/in/braian-ivan-a7621021a/" target="_blank">
 <img src="https://img.shields.io/badge/linkedin:  Braian Kandyba-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
 </li>
